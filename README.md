@@ -1,2 +1,4 @@
 # wikitest
 sandbox
+
+*test
